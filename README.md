@@ -10,7 +10,7 @@ This repository presents a comprehensive analysis of supermarket sales utilizing
 4. **`README.md`**: Documentation offering insights into the repository, data sources, query execution instructions, and more.
 
 **Dataset:**
-The raw dataset used for this analysis is available in the 'Raw CSV' folder. You can download it [here]([provide_dataset_link](https://www.kaggle.com/datasets/yapwh1208/supermarket-sales-data?select=annex4.csv)).
+The raw dataset used for this analysis is available in the 'Raw CSV' folder. You can download it [here](https://www.kaggle.com/datasets/yapwh1208/supermarket-sales-data?select=annex4.csv).
 
 **How to Use:**
 1. Clone this repository to your local machine.
