@@ -21,5 +21,5 @@ The raw dataset used for this analysis is available in the 'Raw CSV' folder. You
 **Notes:**
 Ensure that PostgreSQL is installed on your system before commencing the analysis. If you have any questions or encounter issues, don't hesitate to reach out to me via LinkedIn.
 
-*LinkedIn Profile:* [Your LinkedIn Profile](https://www.linkedin.com/in/kacper-grabarczyk-627b1519a/)
+*LinkedIn Profile:* [My LinkedIn Profile](https://www.linkedin.com/in/kacper-grabarczyk-627b1519a/)
 
